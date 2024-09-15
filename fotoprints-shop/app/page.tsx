@@ -11,7 +11,6 @@ import leftImage from "../public/landingPageImg/Dresden.jpg";
 
 import NavBar from "./components/navBar";
 import HeadingField from "./components/headingField";
-import StoryCard from "./components/storyCard";
 import TransparentBox from "./components/transparentBox";
 import CtaButton from "./components/ctaButton";
 import BlogPostCard from "./components/blogPostCard";
